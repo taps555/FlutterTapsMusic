@@ -393,7 +393,7 @@ class _DesktopPageState extends State<DesktopPage> {
                           Flexible(
                               flex: 1,
                               child:
-                                  customCard('Soul Music', 'images/pic2.jfif')),
+                                  customCard('TapsMusic', 'images/pic2.jfif')),
                           Flexible(
                               flex: 1,
                               child: customCard(
